@@ -1,0 +1,22 @@
+2020/03/20-00:33:29.343 2b34 Reusing MANIFEST C:\Users\pc1\Documents\estudos\python\2019\selenium\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/03/20-00:33:29.344 2b34 Recovering log #361
+2020/03/20-00:33:29.411 2b34 Reusing old log C:\Users\pc1\Documents\estudos\python\2019\selenium\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000361.log 
+2020/03/20-00:36:33.647 2ba8 Level-0 table #372: started
+2020/03/20-00:36:33.809 2ba8 Level-0 table #372: 1299060 bytes OK
+2020/03/20-00:36:33.833 2ba8 Delete type=0 #361
+2020/03/20-00:36:38.919 2ba8 Compacting 1@1 + 6@2 files
+2020/03/20-00:36:39.197 2ba8 Generated table #373@1: 42596 keys, 2236924 bytes
+2020/03/20-00:36:39.497 2ba8 Generated table #374@1: 38228 keys, 2241140 bytes
+2020/03/20-00:36:39.821 2ba8 Generated table #375@1: 37166 keys, 2242791 bytes
+2020/03/20-00:36:40.152 2ba8 Generated table #376@1: 38561 keys, 2239349 bytes
+2020/03/20-00:36:40.413 2ba8 Generated table #377@1: 89457 keys, 2244118 bytes
+2020/03/20-00:36:40.619 2ba8 Generated table #378@1: 62511 keys, 2048687 bytes
+2020/03/20-00:36:40.620 2ba8 Compacted 1@1 + 6@2 files => 13253009 bytes
+2020/03/20-00:36:40.698 2ba8 compacted to: files[ 0 0 6 0 0 0 0 ]
+2020/03/20-00:36:40.699 2ba8 Delete type=2 #364
+2020/03/20-00:36:40.699 2ba8 Delete type=2 #365
+2020/03/20-00:36:40.700 2ba8 Delete type=2 #366
+2020/03/20-00:36:40.700 2ba8 Delete type=2 #367
+2020/03/20-00:36:40.700 2ba8 Delete type=2 #368
+2020/03/20-00:36:40.700 2ba8 Delete type=2 #369
+2020/03/20-00:36:40.700 2ba8 Delete type=2 #372
